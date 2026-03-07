@@ -11,6 +11,7 @@ El final se compone de 5 puntos.
 > Comandos GIT:
 > - git clone (clona el git o lo descarga)
 > - git status (muestra si existen cambios sin guardar o los estados que tienen los archivos)
+> - git commit -m "comentario" (descripcion de los archivos a subir)
 > - git pull (baja los cambios)
 > - git branch (indica en que rama estoy parado)
 > - git checkout -b <<feature>> (crea una rama)
